@@ -1,0 +1,5 @@
+# Compiled files
+intrastructure/terraform.tfstate
+intrastructure/terraform.tfstate.backup
+intrastructure/.terraform/
+intrastructure/*.plan
